@@ -1,0 +1,6 @@
+D:\101193\GradepointIn Method\GradepointIn Method\bin\Debug\GradepointIn Method.exe.config
+D:\101193\GradepointIn Method\GradepointIn Method\obj\Debug\GradepointIn Method.csprojResolveAssemblyReference.cache
+D:\101193\GradepointIn Method\GradepointIn Method\bin\Debug\GradepointIn Method.exe
+D:\101193\GradepointIn Method\GradepointIn Method\bin\Debug\GradepointIn Method.pdb
+D:\101193\GradepointIn Method\GradepointIn Method\obj\Debug\GradepointIn Method.exe
+D:\101193\GradepointIn Method\GradepointIn Method\obj\Debug\GradepointIn Method.pdb
